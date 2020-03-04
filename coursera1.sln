@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coursera1", "coursera1\coursera1.vcxproj", "{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Debug|x64.ActiveCfg = Debug|x64
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Debug|x64.Build.0 = Debug|x64
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Debug|x86.ActiveCfg = Debug|Win32
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Debug|x86.Build.0 = Debug|Win32
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Release|x64.ActiveCfg = Release|x64
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Release|x64.Build.0 = Release|x64
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Release|x86.ActiveCfg = Release|Win32
+		{128E6C7F-97DA-47E6-A712-A8EDC2B7B007}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49EDB7C-9FD1-4C38-BDC8-6B6581923DDC}
+	EndGlobalSection
+EndGlobal
